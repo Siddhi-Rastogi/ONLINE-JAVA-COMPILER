@@ -1,0 +1,1 @@
+public class umar {public umar() { } public static void main(String... args) {System.out.println("umar bawla hai"); }}

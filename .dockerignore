@@ -1,0 +1,8 @@
+.git
+.agents
+.vscode
+.settings
+Files
+WEB-INF
+*.war
+*.class

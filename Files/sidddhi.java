@@ -1,0 +1,1 @@
+public class sidddhi {public sidddhi() { } public static void main(String... args) {                System.out.println("sambhav "); }}

@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "WebContent/WEB-INF/classes",
+    "java.project.referencedLibraries": [
+        "C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar",
+        "C:/Program Files/Java/jdk1.8.0_131/lib/missioncontrol/plugins/javax.servlet_3.0.0.v201112011016.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
